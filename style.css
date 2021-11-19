@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+#login-area h2 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.submit-area {
+    margin: 50px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(151, 146, 146);
+}
+
+.btn {
+    background-color: green;
+    color: white;
+}
+
+#transaction-area {
+    display: none;
+}
+
+.dolar {
+    padding: 15px;
+}
+
+.deposit {
+    background: rgb(64, 16, 160);
+    padding: 30px 15px;
+    color: white;
+    border-radius: 10px;
+}
+
+.withdraw {
+    background: rgb(148, 16, 160);
+    padding: 30px 15px;
+    color: white;
+    border-radius: 10px;
+}
+
+.balance {
+    background: rgb(160, 119, 16);
+    padding: 30px 15px;
+    color: white;
+    border-radius: 10px;
+}
+
+.submit2-area {
+    box-shadow: 5px 5px 10px gray;
+    padding: 25px 15px;
+    border-radius: 10px;
+}
+
+.marg {
+    margin: 40px 0;
+}
